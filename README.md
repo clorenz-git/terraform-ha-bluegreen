@@ -15,6 +15,10 @@ Core components:
 - Instance Metadata Service v2 (IMDSv2)
 - AWS Systems Manager (SSM) for access and management
 
+
+![AWS Blue/Green Architecture](screenshots/aws-bluegreen-architecture.png)
+
+
 Traffic flow:
 ```
 
